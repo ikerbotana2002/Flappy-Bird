@@ -1,7 +1,7 @@
 # Flappy-Bird
 # Proyecto de Animación en Unity
 
-Este repositorio contiene el proyecto de Unity desarrollado para la práctica de animación, junto con la memoria en PDF y un vídeo de demostración del funcionamiento del juego/prototipo.
+Este repositorio contiene el proyecto de Unity, junto con la memoria en PDF y un vídeo de demostración del funcionamiento del juego.
 
 
 ## Descripción
